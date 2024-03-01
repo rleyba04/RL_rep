@@ -1,0 +1,2 @@
+#display
+print("first python")
